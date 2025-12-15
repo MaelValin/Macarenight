@@ -1,4 +1,4 @@
-const cacheName = "WakerIndustries-Macarenight-1.0.0";
+const cacheName = "WakerIndustries-Macarenight-2.0.0";
 const contentToCache = [
     "Build/docs.loader.js",
     "Build/docs.framework.js",
