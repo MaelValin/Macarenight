@@ -8,6 +8,7 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+# /docs/ - needed for GitHub Pages
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 *.log
