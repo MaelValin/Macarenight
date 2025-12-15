@@ -1,1 +1,2 @@
 BuildWeb/Build/*.br filter=lfs diff=lfs merge=lfs -text
+docs/Build/*.br filter=lfs diff=lfs merge=lfs -text
